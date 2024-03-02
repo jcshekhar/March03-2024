@@ -1,0 +1,241 @@
+2024-01-03 11:39:18,204 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 11:39:18,250 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 11:39:18,256 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 11:39:18,645 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 11:39:20,976 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 11:39:21,000 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 11:39:21,003 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 11:39:23,279 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 11:51:16,815 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 11:51:16,860 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 11:51:16,866 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 11:51:17,368 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 11:51:19,532 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 11:51:19,561 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 11:51:19,565 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 11:51:22,453 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 11:51:22,458 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 11:51:22,747 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 11:51:22,751 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 12:43:39,528 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 12:43:39,571 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 12:43:39,577 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 12:43:40,002 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 12:43:42,203 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 12:43:42,239 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 12:43:42,243 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 12:43:53,245 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 12:43:53,249 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 12:43:53,462 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 12:43:53,466 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 14:21:11,292 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:21:11,377 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:21:11,381 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:21:11,889 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 14:21:13,627 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:21:13,664 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:21:13,669 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:21:17,613 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 14:21:17,616 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 14:21:17,725 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 14:21:17,728 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 14:45:46,349 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:45:46,382 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:45:46,387 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:45:46,853 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 14:45:48,850 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:45:48,885 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:45:48,890 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:45:52,051 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 14:45:52,055 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 14:45:52,206 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 14:45:52,211 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 14:51:25,219 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:51:25,250 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:51:25,254 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:51:25,647 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 14:51:27,498 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:51:27,539 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:51:27,546 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:51:29,187 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 14:51:29,190 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 14:51:29,229 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 14:51:29,233 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 14:51:29,343 - Log -INFO - ******WelCome************
+2024-01-03 14:51:29,501 - Log -INFO - *************Logout is Completed********
+2024-01-03 14:54:41,989 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:54:42,030 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:54:42,035 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:54:42,549 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 14:55:45,664 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:55:45,696 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:55:45,700 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:55:46,053 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 14:55:48,035 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:55:48,074 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 14:55:48,079 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 14:55:49,681 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 14:55:49,685 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 14:55:49,806 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 14:55:49,810 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 14:55:49,971 - Log -INFO - ******WelCome************
+2024-01-03 14:55:50,167 - Log -INFO - *************Logout is Completed********
+2024-01-03 17:21:27,674 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 17:21:27,715 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 17:21:27,722 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 17:21:28,306 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 17:21:30,922 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 17:21:30,957 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 17:21:30,961 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 17:21:33,602 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 17:21:33,606 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 17:21:33,913 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 17:21:33,916 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 17:21:34,036 - Log -INFO - ******WelCome************
+2024-01-03 17:21:34,286 - Log -INFO - *************Logout is Completed********
+2024-01-03 17:47:06,714 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 17:47:06,764 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 17:47:06,768 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 17:47:07,261 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 17:47:09,768 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 17:47:09,804 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 17:47:09,809 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 17:47:12,806 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 17:47:12,809 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 17:47:12,955 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 17:47:12,959 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 17:47:13,069 - Log -INFO - ******WelCome************
+2024-01-03 17:47:18,118 - Log -INFO - *************Logout is Completed********
+2024-01-03 18:23:51,566 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 18:23:51,599 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 18:23:51,603 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 18:23:51,992 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-03 18:23:54,017 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 18:23:54,056 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-03 18:23:54,061 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-03 18:23:55,524 - Log -INFO - ********Login Successfully completed**********
+2024-01-03 18:23:55,527 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-03 18:23:55,738 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-03 18:23:55,743 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-03 18:23:55,850 - Log -INFO - ******WelCome************
+2024-01-03 18:24:00,890 - Log -INFO - *************Logout is Completed********
+2024-01-04 18:05:46,916 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 18:05:46,964 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 18:05:46,971 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 18:05:47,416 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-04 18:05:50,114 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 18:05:50,158 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 18:05:50,164 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 18:06:01,485 - Log -INFO - ********Login Successfully completed**********
+2024-01-04 18:06:01,490 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-04 18:06:01,699 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-04 18:06:01,703 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-04 18:06:01,849 - Log -INFO - ******WelCome************
+2024-01-04 18:06:06,898 - Log -INFO - *************Logout is Completed********
+2024-01-04 19:23:19,221 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:23:19,270 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:23:19,277 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:23:19,927 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-04 19:23:23,012 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:23:23,046 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:23:23,051 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:23:25,937 - Log -INFO - ********Login Successfully completed**********
+2024-01-04 19:23:25,945 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-04 19:23:26,093 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-04 19:23:26,097 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-04 19:23:26,295 - Log -INFO - ******WelCome************
+2024-01-04 19:23:31,340 - Log -INFO - *************Logout is Completed********
+2024-01-04 19:25:09,315 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:25:09,373 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:25:09,384 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:25:09,928 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-04 19:25:12,526 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:25:12,567 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:25:12,570 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:25:15,183 - Log -INFO - ********Login Successfully completed**********
+2024-01-04 19:25:15,186 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-04 19:25:15,434 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-04 19:25:15,437 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-04 19:25:15,567 - Log -INFO - ******WelCome************
+2024-01-04 19:25:20,608 - Log -INFO - *************Logout is Completed********
+2024-01-04 19:27:32,038 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:27:32,082 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:27:32,089 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:27:32,594 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-04 19:27:35,342 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:27:35,382 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:27:35,385 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:27:38,502 - Log -INFO - ********Login Successfully completed**********
+2024-01-04 19:27:38,507 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-04 19:27:38,580 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-04 19:27:38,584 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-04 19:27:38,838 - Log -INFO - ******WelCome************
+2024-01-04 19:27:43,879 - Log -INFO - *************Logout is Completed********
+2024-01-04 19:29:06,018 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:29:06,109 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:29:06,119 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:29:06,723 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-04 19:29:09,673 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:29:09,718 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:29:09,723 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:29:12,600 - Log -INFO - ********Login Successfully completed**********
+2024-01-04 19:29:12,604 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-04 19:29:12,787 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-04 19:29:12,791 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-04 19:29:12,927 - Log -INFO - ******WelCome************
+2024-01-04 19:29:19,340 - Log -INFO - *************Logout is Completed********
+2024-01-04 19:29:19,387 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:29:19,417 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:29:19,434 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:29:19,868 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-04 19:31:38,999 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:31:39,054 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:31:39,061 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:31:39,459 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-04 19:31:42,097 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:31:42,135 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:31:42,139 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:31:44,832 - Log -INFO - ********Login Successfully completed**********
+2024-01-04 19:31:44,836 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-04 19:31:45,087 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-04 19:31:45,090 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-04 19:31:45,193 - Log -INFO - ******WelCome************
+2024-01-04 19:31:51,333 - Log -INFO - *************Logout is Completed********
+2024-01-04 19:31:51,370 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:31:51,392 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-04 19:31:51,399 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-04 19:31:51,753 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-07 11:50:19,638 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:50:19,696 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:50:19,707 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-07 11:50:20,102 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-07 11:50:22,783 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:50:22,832 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:50:22,843 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-07 11:50:32,176 - Log -INFO - ********Login Successfully completed**********
+2024-01-07 11:50:32,188 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-07 11:50:32,305 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-07 11:50:32,308 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-07 11:50:32,451 - Log -INFO - ******WelCome************
+2024-01-07 11:50:38,557 - Log -INFO - *************Logout is Completed********
+2024-01-07 11:50:38,591 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:50:38,631 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:50:38,645 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-07 11:50:38,900 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-07 11:54:10,255 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:54:10,309 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:54:10,317 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-07 11:54:10,819 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
+2024-01-07 11:54:13,661 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:54:13,691 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:54:13,695 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-07 11:54:16,374 - Log -INFO - ********Login Successfully completed**********
+2024-01-07 11:54:16,379 - Log -INFO -  The Expected Text of the OrangeHRM Application HomePage is :- Welcome
+2024-01-07 11:54:16,434 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-01-07 11:54:16,437 - Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2024-01-07 11:54:16,541 - Log -INFO - ******WelCome************
+2024-01-07 11:54:22,578 - Log -INFO - *************Logout is Completed********
+2024-01-07 11:54:22,615 - Log -INFO -  The Expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:54:22,651 - Log -INFO -  The Actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2024-01-07 11:54:22,663 - Log -INFO -  Successfully navigated to OrangeHRM Application LogIn Page - PASS 
+2024-01-07 11:54:23,044 - Log -INFO -  *****  Successfully Close the Browser along with OrangeHRM Application 
